@@ -46,7 +46,7 @@ permalink: /experience/
             </a>
     </span> <br>
     <div style="font-style: italic;">
-        Software Engineer Engineer<br>
+        Software Engineer Intern<br>
         Toronto<br>
         May 2020 - August 2020
     </div>
